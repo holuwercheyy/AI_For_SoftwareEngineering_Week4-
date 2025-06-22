@@ -52,17 +52,17 @@ This Kaggle notebook implements predictive analytics for resource allocation usi
 3. Run model-comparison.py for model benchmarking
 
 ## Deliverables
-✅ Complete Jupyter Notebook with all analysis steps
-✅ Performance metrics (Accuracy, F1-score)
-✅ Data preprocessing pipeline
-✅ Model evaluation and comparison
-✅ Visualizations and insights
+✅ Complete Jupyter Notebook with all analysis steps  
+✅ Performance metrics (Accuracy, F1-score)  
+✅ Data preprocessing pipeline  
+✅ Model evaluation and comparison  
+✅ Visualizations and insights  
 
 
 ## Team Members:
 
-Brian Ouko - brianouko70@gmail.com
-Mmabath Naseba - nmmaba2@gmail.com
-Hisserhah Holuwercheyy -  holuwercheyyhisserhah@gmail.com 
-Letshego Sephiri -Letshegosephiri@gmail.com
-Christopher Obegi - chrisobegi2003@gmail.com
+- [Brian Ouko](https://github.com/WellBrian)
+- [Mmabath Naseba](https://github.com/Mmabatho)
+- [Hisserhah Holuwercheyy](https://github.com/holuwercheyy)
+- [Letshego Sephiri](https://github.com/CaramelF)
+- [Christopher Obegi](https://github.com/mechriz)
