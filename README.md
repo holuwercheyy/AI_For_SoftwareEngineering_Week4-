@@ -1,5 +1,43 @@
 
 # AI_For_SoftwareEngineering_Week4-
+## 🧠 AI Development Project – Theoretical and Practical Exploration
+
+This project covers a comprehensive introduction to AI using Python and popular libraries such as TensorFlow, PyTorch, Scikit-learn, and spaCy. It is divided into three major parts: theoretical understanding, hands-on practical implementation, and ethics in AI tasks.
+
+# ✅ Part 1: Theoretical Understanding – Summary
+
+## 📌1. Short Answer Questions
+
+3 questions were answered.
+
+Q1: Explain the primary differences between TensorFlow and PyTorch. When would you choose one over the other?
+
+Q2: Describe two use cases for Jupyter Notebooks in AI development.
+
+Q3: How does spaCy enhance NLP tasks compared to basic Python string operations?
+
+## 📌2. Comparative Analysis: Scikit-learn vs TensorFlow
+
+```
+| Feature         | Scikit-learn                        | TensorFlow                          |
+| --------------- | ----------------------------------- | ----------------------------------- |
+| **Target Use**  | Classical ML: SVM, Random Forests   | Deep Learning: Neural Networks      |
+| **Ease of Use** | Very beginner-friendly              | Steeper learning curve              |
+| **Community**   | Strong in academia and ML tutorials | Large global backing + industry use |
+```
+
+# ✅ Part 2: Practical Implementation – Detailed Summary & Responses
+
+## 🔷 Task 1: Classical Machine Learning with Scikit-learn
+
+We Used Scikit-learn to build a Decision Tree Classifier to predict iris flower species. 
+Our Outcome: A simple, interpretable ML model capable of classifying iris species with decent performance using basic metrics.
+
+# 🔷 Task 2: Deep Learning with TensorFlow/PyTorch (MNIST Classification)
+
+We Build a CNN (Convolutional Neural Network) to classify handwritten digits from the MNIST dataset.
+Outcome: A performant CNN achieving >95% accuracy, with sample predictions visualized to demonstrate understanding of model performance.
+
 
 # Task3: Predictive Analytics for Resource Allocation
 
