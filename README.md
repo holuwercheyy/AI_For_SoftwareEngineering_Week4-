@@ -38,13 +38,13 @@ This Kaggle notebook implements predictive analytics for resource allocation usi
 - *Model*: Random Forest with 100 estimators
 
 ## Files Structure
-
+```
 ├── scripts/
 │   ├── breast-cancer-predictive-analytics.py  # Main analysis
 │   ├── data-visualization.py                  # Visualizations
 │   └── model-comparison.py                    # Model comparison
 └── README.md                                  # This file
-
+```
 
 ## Usage Instructions
 1. Run breast-cancer-predictive-analytics.py for main analysis
